@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "macbook.jpg",
+      "title": "Apple Macbook air 13",
+      "count": 3,
+      "price": 110000,
+      "priceTotal": 330000
+    },
+    {
+      "img": "apple-watch.jpg",
+      "title": "Apple Watch",
+      "count": 4,
+      "price": 29000,
+      "priceTotal": 145000,
+      "id": 12
+    },
+    {
+      "img": "macbook.jpg",
+      "title": "Apple Macbook Pro",
+      "count": 11,
+      "price": 180000,
+      "priceTotal": 1980000,
+      "id": 13
+    }
+  ]
+}
